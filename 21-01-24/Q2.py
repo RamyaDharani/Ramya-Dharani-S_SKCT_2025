@@ -1,4 +1,4 @@
-/*
+'''
 Task
 The provided code stub reads two integers,a  and b, from STDIN.
 
@@ -15,9 +15,7 @@ Print:
 
 0
 0.6
-*/
-
-ans:
+'''
 
 if __name__ == '__main__':
     a = int(input())
