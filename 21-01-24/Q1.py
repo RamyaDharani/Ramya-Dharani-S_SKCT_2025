@@ -1,5 +1,5 @@
 
-/*
+'''
 Task
 Given an integer, , perform the following conditional actions:
 
@@ -30,7 +30,7 @@ Sample Input 1
 Sample Output 1
 
 Not Weird
-*/
+'''
 
 #!/bin/python3
 
