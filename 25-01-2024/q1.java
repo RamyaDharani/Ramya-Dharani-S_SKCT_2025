@@ -89,6 +89,15 @@ class Result {
 23
     // Write your code here
 24
+     int rx = 2 * qx - px;
+        int ry = 2 * qy - py;
+
+     
+        List<Integer> result = new ArrayList<>();
+        result.add(rx);
+        result.add(ry);
+
+        return result;
 ​
 25
     }
